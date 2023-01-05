@@ -1,7 +1,7 @@
 ---
-layout: featured
+layout: post
 title: Dasar Negara
-author: kyrakez
+author: Kyrakez
 categories:
 - Negara
 - Hukum
